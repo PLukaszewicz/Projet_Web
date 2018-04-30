@@ -1,0 +1,16 @@
+body{
+	background-color: rgb(244,232,181);
+	font-family : arial;
+	color : black;
+}
+
+#leftcolumn{
+	float: left;
+    width: 700px;
+}
+
+#rightcolumn{
+	float : right;
+
+}
+
